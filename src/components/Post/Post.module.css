@@ -19,8 +19,15 @@
 }
 
 .post-comments {
-    
+    padding: 16px;               /* Espaçamento interno */
+    background-color: #f9f9f9;   /* Cor de fundo */
+    border: 1px solid #ddd;      /* Borda */
+    border-radius: 8px;          /* Arredondamento dos cantos */
+    margin-top: 20px;            /* Espaçamento superior */
+    font-family: Arial, sans-serif; /* Fonte */
+    color: #333;                 /* Cor do texto */
 }
+
 
 .post-comment {
     color: #444;
